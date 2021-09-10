@@ -29,8 +29,8 @@ import Together3 from "./pictures/together3.jpg";
 import BreakingBad from "./pictures/BreakingBad.jpg";
 
 function App() {
-  const [quote, setQuote] = useState("Hello , Quote is supossed to be here");
-  const [author, setAuthor] = useState("Sanket Jaswal");
+  const [quote, setQuote] = useState("Bzzzz");
+  const [author, setAuthor] = useState("The fly");
   const [picture, setPicture] = useState(BreakingBad);
   useEffect(() => {
     document.body.style.backgroundImage = `url(${picture})`;
