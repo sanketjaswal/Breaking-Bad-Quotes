@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Quotes/static/css/main.4c4413f1.chunk.css",
+    "main.js": "/Breaking-Bad-Quotes/static/js/main.81dde53e.chunk.js",
+    "main.js.map": "/Breaking-Bad-Quotes/static/js/main.81dde53e.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad-Quotes/static/js/runtime-main.8ed4d110.js",
+    "runtime-main.js.map": "/Breaking-Bad-Quotes/static/js/runtime-main.8ed4d110.js.map",
+    "static/js/2.ac7dc8f0.chunk.js": "/Breaking-Bad-Quotes/static/js/2.ac7dc8f0.chunk.js",
+    "static/js/2.ac7dc8f0.chunk.js.map": "/Breaking-Bad-Quotes/static/js/2.ac7dc8f0.chunk.js.map",
+    "static/js/3.5440bc6c.chunk.js": "/Breaking-Bad-Quotes/static/js/3.5440bc6c.chunk.js",
+    "static/js/3.5440bc6c.chunk.js.map": "/Breaking-Bad-Quotes/static/js/3.5440bc6c.chunk.js.map",
+    "index.html": "/Breaking-Bad-Quotes/index.html",
+    "static/css/main.4c4413f1.chunk.css.map": "/Breaking-Bad-Quotes/static/css/main.4c4413f1.chunk.css.map",
+    "static/js/2.ac7dc8f0.chunk.js.LICENSE.txt": "/Breaking-Bad-Quotes/static/js/2.ac7dc8f0.chunk.js.LICENSE.txt",
+    "static/media/BreakingBad.e5550351.jpg": "/Breaking-Bad-Quotes/static/media/BreakingBad.e5550351.jpg",
+    "static/media/Jesse0.ecc53af3.jpg": "/Breaking-Bad-Quotes/static/media/Jesse0.ecc53af3.jpg",
+    "static/media/Jesse1.b2f89876.jpg": "/Breaking-Bad-Quotes/static/media/Jesse1.b2f89876.jpg",
+    "static/media/Jesse2.a792ddde.jpg": "/Breaking-Bad-Quotes/static/media/Jesse2.a792ddde.jpg",
+    "static/media/Jesse3.a98a46d0.jpg": "/Breaking-Bad-Quotes/static/media/Jesse3.a98a46d0.jpg",
+    "static/media/Jesse4.e3d71a38.jpg": "/Breaking-Bad-Quotes/static/media/Jesse4.e3d71a38.jpg",
+    "static/media/Saul0.c41598de.jpg": "/Breaking-Bad-Quotes/static/media/Saul0.c41598de.jpg",
+    "static/media/Saul1.0c41445d.jpg": "/Breaking-Bad-Quotes/static/media/Saul1.0c41445d.jpg",
+    "static/media/Saul2.c2c3faff.jpg": "/Breaking-Bad-Quotes/static/media/Saul2.c2c3faff.jpg",
+    "static/media/Saul3.8ac87f68.jpg": "/Breaking-Bad-Quotes/static/media/Saul3.8ac87f68.jpg",
+    "static/media/Saul4.07f38154.jpg": "/Breaking-Bad-Quotes/static/media/Saul4.07f38154.jpg",
+    "static/media/Walter.b60363a5.jpg": "/Breaking-Bad-Quotes/static/media/Walter.b60363a5.jpg",
+    "static/media/Walter1.f010477e.jpg": "/Breaking-Bad-Quotes/static/media/Walter1.f010477e.jpg",
+    "static/media/Walter2.60d5b0dc.jpg": "/Breaking-Bad-Quotes/static/media/Walter2.60d5b0dc.jpg",
+    "static/media/Walter3.d4a63939.jpg": "/Breaking-Bad-Quotes/static/media/Walter3.d4a63939.jpg",
+    "static/media/Walter4.c5e5e1d0.jpg": "/Breaking-Bad-Quotes/static/media/Walter4.c5e5e1d0.jpg",
+    "static/media/together0.4abc3287.jpg": "/Breaking-Bad-Quotes/static/media/together0.4abc3287.jpg",
+    "static/media/together2.24b5e75b.jpg": "/Breaking-Bad-Quotes/static/media/together2.24b5e75b.jpg",
+    "static/media/together3.54fdf0cf.jpg": "/Breaking-Bad-Quotes/static/media/together3.54fdf0cf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed4d110.js",
+    "static/js/2.ac7dc8f0.chunk.js",
+    "static/css/main.4c4413f1.chunk.css",
+    "static/js/main.81dde53e.chunk.js"
+  ]
+}
